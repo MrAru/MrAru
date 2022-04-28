@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrAru
 - 👀 I’m interested in Astronomy, Physics, Classic / Jazz Music, Piano / Keyboard, and Machine / Deep Learning
-- 🌱 I’m currently learning English (specially, GRE and TOFEL)
+- 🌱 I’m currently learning English (specially, GRE and TOEFL)
 - 📫 You can reach me at [my blog](https://mraru.github.io)
 
 <!--
